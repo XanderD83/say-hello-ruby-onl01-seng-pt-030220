@@ -7,7 +7,7 @@ end
 
 def greeting (default = "Ruby programmer", name = "Gabriela")
   puts "Hello!"#{default}!
-  puts "greeting #{default}!"
+  puts 
 end
 
 
