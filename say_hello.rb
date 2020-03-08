@@ -5,8 +5,7 @@ end
 
 
 
-def greeting (nam
-  e = "Ruby programmer")
+def greeting (name = "Ruby programmer")
   puts "say_hello #{name}!"
 end
 
