@@ -5,7 +5,7 @@ end
 
 
 
-def say_hello (default = "Ruby programmer")
+def  (default = "Ruby programmer")
   puts "Hello #{default}!"
 end
 
