@@ -6,7 +6,8 @@ end
 
 
 def greeting (name = "Ruby programmer")
-  puts "say_hello #{name}!"
+  puts "Hello #{name}!"
+  puts "greeting #{name}!"
 end
 
 
